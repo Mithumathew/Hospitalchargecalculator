@@ -1,0 +1,17 @@
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\bin\Debug\Hospitalchargecalculator.exe.config
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\bin\Debug\Hospitalchargecalculator.exe
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\bin\Debug\Hospitalchargecalculator.pdb
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.csprojResolveAssemblyReference.cache
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\App.g.cs
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator_MarkupCompile.cache
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator_MarkupCompile.lref
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\MainWindow.baml
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.g.resources
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.Properties.Resources.resources
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.csproj.GenerateResource.Cache
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.exe
+C:\Users\Mithu\Desktop\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.pdb
+C:\Users\Mithu\Desktop\assignments for programming\Hospitalchargecalculator\Hospitalchargecalculator\bin\Debug\Hospitalchargecalculator.exe.config
+C:\Users\Mithu\Desktop\assignments for programming\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.exe
+C:\Users\Mithu\Desktop\assignments for programming\Hospitalchargecalculator\Hospitalchargecalculator\obj\Debug\Hospitalchargecalculator.pdb
